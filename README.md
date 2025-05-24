@@ -1,6 +1,6 @@
 ## 📘 Learn Promise
 
-This repository is focused on understanding and solving the problem of **callback hell** in JavaScript using modern asynchronous patterns.
+This repository is focused on understanding and solving the problem of **callback hell** in JavaScript using modern asynchronous patterns and Challenge API Practice using Ajax Call ,Promise ,Async&Await
 
 ### 📂 Contents
 
